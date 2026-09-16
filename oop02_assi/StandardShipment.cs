@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C02_oop02
+namespace oop02_assi
 {
     public class StandardShipment : Shipment
     {

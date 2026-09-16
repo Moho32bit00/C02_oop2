@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace C02_oop02
+namespace oop02_assi
 {
     public class InternationalShipment : Shipment
     {
